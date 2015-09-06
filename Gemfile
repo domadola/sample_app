@@ -47,3 +47,5 @@ end
 gem 'byebug',      '3.4.0'
 gem 'spring',      '1.1.3'
 gem 'coffee-script-source', '1.8.0'
+
+gem 'bootstrap-sass', '3.2.0.0'
